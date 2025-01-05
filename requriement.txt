@@ -1,0 +1,6 @@
+langchain-groq 
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+pandasai
